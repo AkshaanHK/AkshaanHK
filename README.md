@@ -1,6 +1,6 @@
 # Akshaan Murugesu
 
-MSc Statistics, University of Geneva (5.25/6)
+MSc Statistics, University of Geneva (5.25/6) ·
 Statistical modelling · Machine Learning · Time Series
 
 ## Tech
