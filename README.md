@@ -1,16 +1,15 @@
-## Hi there 👋
+# Akshaan Murugesu
 
-<!--
-**AkshaanHK/AkshaanHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Statistics, University of Geneva (5.25/6)
+Statistical modelling · Machine Learning · Time Series
 
-Here are some ideas to get you started:
+## Tech
+Python · R · scikit-learn · TensorFlow · Git · LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Frequency-domain hybrid likelihood for time series (Master's thesis)
+- Multivariate fMRI analysis (PCA, co-activation patterns)
+- Bike demand forecasting (7 ML models benchmarked)
+- Bayesian inference on censored industrial data
+
+📍 Geneva · Open to Data Scientist roles & internships
